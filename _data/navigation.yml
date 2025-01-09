@@ -5,19 +5,19 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "Extinct in the 21st century"
+  - title: "Extinct in the 21st Century"
     url: /publications/
 
-  - title: "Talks"
+  - title: "Extinct in the 20th Century"
     url: /talks/    
 
-  - title: "Teaching"
+  - title: "Extinct in the 19th Century"
     url: /teaching/    
     
-  - title: "Portfolio"
+  - title: "Extinct in the 18th Century"
     url: /portfolio/
         
-  - title: "Blog Posts"
+  - title: "Extinct in the 17th Century"
     url: /year-archive/
     
   - title: "CV"
