@@ -15,7 +15,7 @@ To start, go to the top bar and click on "Extinct in the 21st Century" and when 
 
 Other
 ======
-All other information is listed below.
-• The template in this site is [Academic Pages]( https://github.com/academicpages/academicpages.github.io).
-• A plugin called "[Jekyll](https://jekyllrb.com/)" is installed.
+All other information is listed below.                                                                                                 
+• The template in this site is [Academic Pages]( https://github.com/academicpages/academicpages.github.io).                            
+• A plugin called "[Jekyll](https://jekyllrb.com/)" is installed.                                                                      
 • Site map found [here](https://www.xml-sitemaps.com/download/jcnetown.github.io-ee77558aa/sitemap.xml?view=1).
