@@ -1,26 +1,15 @@
 ---
 permalink: /markdown/
-title: "Markdown"
+title: "Extinct in the 15th Century"
 author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
 ---
 
-## Locations of key files/directories
+## Tenerife Giant Lizard
 
-* Basic config options: _config.yml
-* Top navigation bar config: _data/navigation.yml
-* Single pages: _pages/
-* Collections of pages are .md or .html files in:
-  * _publications/
-  * _portfolio/
-  * _posts/
-  * _teaching/
-  * _talks/
-* Footer: _includes/footer.html
-* Static files (like PDFs): /files/
-* Profile image (can set in _config.yml): images/profile.png
+The Tenerife Giant Lizard (also known as Gallotia Goliath by its species name) was the largest reptile on the Canary Islands.
 
 ## Tips and hints
 
