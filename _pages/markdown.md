@@ -16,7 +16,7 @@ The Tenerife Giant Lizard (also known as Gallotia Goliath by its species name) w
 
 ## Kaua'i Finch
 
-The Kaua'i Finch is an extinct species of bird that lived in Hawaii. Not much is known about this bird due to it being extinct before European explorers came to Hawaii.
+The Kaua'i Finch is an extinct species of bird that lived in Hawaii. It was about 5 and a half inches long. They were believed to live in the highland forest and travel down to lower lands. Not much is known about this bird due to it being extinct before European explorers came to Hawaii.
 
 
 
