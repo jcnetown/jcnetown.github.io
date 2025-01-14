@@ -11,6 +11,8 @@ redirect_from:
 
 The Tenerife Giant Lizard (also known as Gallotia Goliath by its species name) was the largest reptile on the Canary Islands. They are believed to be around 3 feet long.
 <a href="https://ibb.co/0fwcmvr"><img src="https://i.ibb.co/Q65fptM/Gallotia-goliath-reconstruction.jpg" alt="Gallotia-goliath-reconstruction" border="0"></a><br /><a target='_blank'>
+<small>Image is a depiction of the Gallotia Goliath next to a Canary.<small>                                                          
+<small>Made by El fosilmaníaco<small>
 ## 
 
 
