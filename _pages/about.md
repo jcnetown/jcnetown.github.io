@@ -18,5 +18,5 @@ Other
 All other information is listed below.                                                                                                 
 • The template in this site is [Academic Pages]( https://github.com/academicpages/academicpages.github.io).                            
 • A plugin called "[Jekyll](https://jekyllrb.com/)" is installed.                                                                      
-• Site map found [here](https://www.xml-sitemaps.com/download/jcnetown.github.io-ee77558aa/sitemap.xml?view=1).
+• Site map found [here](https://www.xml-sitemaps.com/download/jcnetown.github.io-ee77558aa/sitemap.xml?view=1).                        
 • All information was sourced from Wikipedia.
