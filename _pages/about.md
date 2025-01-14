@@ -20,4 +20,4 @@ All other information is listed below.
 • A plugin called "[Jekyll](https://jekyllrb.com/)" is installed.                                                                      
 • Site map found [here](https://www.xml-sitemaps.com/download/jcnetown.github.io-ee77558aa/sitemap.xml?view=1).                        
 • All information was sourced from Wikipedia.                                                                                          
-• All images used are licensed under [Creative Commons](https://creativecommons.org/share-your-work/) Attribution-ShareAlike 4.0 International and are therefore copyright free.
+• All images used are licensed under [Creative Commons](https://creativecommons.org/share-your-work/) Attribution-ShareAlike 4.0 International and are therefore free to share.
