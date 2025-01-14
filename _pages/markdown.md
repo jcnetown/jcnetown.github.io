@@ -23,7 +23,7 @@ The Kaua'i Finch is an extinct species of bird that lived in Hawaii. It was abou
 ## South Island Giant Moa
 
 The South Island giant moa lived in South Island, New Zealand. It was the tallest bird to ever walk the Earth with the average height for females being 6'7" and males being 11'10". Giant moas' were fully feathered expect for their heads and a bit of their necks and had only a remnant of wings.                                                                                                          
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/mXd3kjX/big-bird.png" alt="big-bird" border="0" height=100 width=149></a><br /><a target='_blank'/>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/mXd3kjX/big-bird.png" alt="big-bird" border="0" height=200 width=398></a><br /><a target='_blank'/>
 <small>A skeleton of a South Island giant moa</small>                                                                                 
 <small>Photo from York Mueseums Trust</small>
 
