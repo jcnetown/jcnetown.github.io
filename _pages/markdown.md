@@ -13,12 +13,17 @@ The Tenerife Giant Lizard (also known as Gallotia Goliath by its species name) w
 <a href="https://ibb.co/0fwcmvr"><img src="https://i.ibb.co/Q65fptM/Gallotia-goliath-reconstruction.jpg" alt="Gallotia-goliath-reconstruction" border="0"></a><br /><a target='_blank'/>
 <small>Image is a depiction of the Gallotia Goliath next to a Canary.</small>                                                         
 <small>Made by El fosilmaníaco</small>
-## 
+
+## Kaua'i Finch
+
+The Kaua'i Finch is an extinct species of bird that lived in Hawaii. Not much is known about this bird due to it being extinct before European explorers came to Hawaii.
 
 
-## Resources
- * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
- * [MathJax Documentation](https://docs.mathjax.org/en/latest/)
+
+## South Island Giant Moa
+
+The South Island giant moa was the tallest bird to ever walk the Earth.
+
 
 ## MathJax 
 
