@@ -22,17 +22,17 @@ The Kaua'i Finch is an extinct species of bird that lived in Hawaii. It was abou
 
 ## South Island Giant Moa
 
-The South Island giant moa lived in South Island, New Zealand. It was the tallest bird to ever walk the Earth with the average height for females being 6'7" and males being 11'10". Giant moas' were fully feathered expect for their heads and a bit of their necks and had only a remnant of wings. It went extinct between 1451-1952.</br>
+The South Island giant moa lived in South Island, New Zealand. It was the tallest bird to ever walk the Earth with the average height for females being 6'7" and males being 11'10". Giant moas' were fully feathered expect for their heads and a bit of their necks and had only a remnant of wings. It went extinct between 1451-1952.
 <a href="https://en.wikipedia.org/wiki/South_Island_giant_moa#/media/File:Dinornis_robustus,_South_Island_Giant_Moa_-_three_quarter_view_on_black_YORYM_2004_20.jpg"><img src="https://i.ibb.co/mXd3kjX/big-bird.png" alt="big-bird" border="0" height=200 width=398></a><br /><a target='_blank'/>
 <small>A skeleton of a South Island giant moa</small>                                                                                 
 <small>Photo from York Mueseums Trust</small>
 
 ## South American Wolf 
 
-The South American wolf went extinct between 1454 and 1626. The South American wolf's diet was preying on small mammals and eating large carcasses, meaning it was both a carnivore and a scavenger. There is evidence of some people keeping these as pets, like at some dug up graves they find the bones of this wolf. </br>
+The South American wolf went extinct between 1454 and 1626. The South American wolf's diet was preying on small mammals and eating large carcasses, meaning it was both a carnivore and a scavenger. There is evidence of some people keeping these as pets, like at some dug up graves they find the bones of this wolf. 
 <a href="https://en.wikipedia.org/wiki/Dusicyon_avus#/media/File:Dusicyon_avus_Wikipedia_Juandertal.jpg"><img src="https://i.ibb.co/HtK9FcM/Dusicyon-avus-Wikipedia-Juandertal.jpg" alt="Dusicyon-avus-Wikipedia-Juandertal" border="0"></a><br /><a target='_blank'/>
-<small>A sketch of a South American wolf</small> </br>
-<small>Made by Juandertal</small> </br>
+<small>A sketch of a South American wolf</small> <br>
+<small>Made by Juandertal</small> <br>
 
 ## Markdown guide
 
