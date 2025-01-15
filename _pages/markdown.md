@@ -10,7 +10,7 @@ redirect_from:
 ## Tenerife Giant Lizard
 
 The Tenerife Giant Lizard (also known as Gallotia Goliath by its species name) was the largest reptile on the Canary Islands. They went extinct between 1400 and 1500. They are believed to be around 3 feet long.
-<a href="https://ibb.co/0fwcmvr"><img src="https://i.ibb.co/Q65fptM/Gallotia-goliath-reconstruction.jpg" alt="Gallotia-goliath-reconstruction" border="0"></a><br /><a target='_blank'/>
+<a href="https://en.wikipedia.org/wiki/Gallotia_goliath#/media/File:Gallotia_goliath_reconstruction.jpg"><img src="https://i.ibb.co/Q65fptM/Gallotia-goliath-reconstruction.jpg" alt="Gallotia-goliath-reconstruction" border="0"></a><br /><a target='_blank'/>
 <small>Image is a depiction of the Gallotia Goliath next to a human hand.</small>                                                     
 <small>Made by El fosilmaníaco</small>
 
@@ -23,7 +23,7 @@ The Kaua'i Finch is an extinct species of bird that lived in Hawaii. It was abou
 ## South Island Giant Moa
 
 The South Island giant moa lived in South Island, New Zealand. It was the tallest bird to ever walk the Earth with the average height for females being 6'7" and males being 11'10". Giant moas' were fully feathered expect for their heads and a bit of their necks and had only a remnant of wings. It went extinct between 1451-1952.</br>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/mXd3kjX/big-bird.png" alt="big-bird" border="0" height=200 width=398></a><br /><a target='_blank'/>
+<a href="https://en.wikipedia.org/wiki/South_Island_giant_moa#/media/File:Dinornis_robustus,_South_Island_Giant_Moa_-_three_quarter_view_on_black_YORYM_2004_20.jpg"><img src="https://i.ibb.co/mXd3kjX/big-bird.png" alt="big-bird" border="0" height=200 width=398></a><br /><a target='_blank'/>
 <small>A skeleton of a South Island giant moa</small>                                                                                 
 <small>Photo from York Mueseums Trust</small>
 
