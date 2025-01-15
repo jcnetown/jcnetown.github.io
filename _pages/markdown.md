@@ -29,8 +29,10 @@ The South Island giant moa lived in South Island, New Zealand. It was the talles
 
 ## South American Wolf 
 
-The South American wolf went extinct between 1454 and 1626. The South American wolf's diet was preying on small mammals and eating large carcasses, meaning it was both a carnivore and a scavenger. There is evidence of some people keeping these as pets, like at some dug up graves they find the bones of this wolf. 
-
+The South American wolf went extinct between 1454 and 1626. The South American wolf's diet was preying on small mammals and eating large carcasses, meaning it was both a carnivore and a scavenger. There is evidence of some people keeping these as pets, like at some dug up graves they find the bones of this wolf. </br>
+<a href="https://en.wikipedia.org/wiki/Dusicyon_avus#/media/File:Dusicyon_avus_Wikipedia_Juandertal.jpg"><img src="https://i.ibb.co/HtK9FcM/Dusicyon-avus-Wikipedia-Juandertal.jpg" alt="Dusicyon-avus-Wikipedia-Juandertal" border="0"></a><br /><a target='_blank'/>
+<small>A sketch of a South American wolf</small> </br>
+<small>Made by Juandertal</small> </br>
 
 ## Markdown guide
 
