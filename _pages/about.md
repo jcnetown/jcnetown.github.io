@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Extinct Animals"
 author_profile: true
 redirect_from: 
   - /about/
