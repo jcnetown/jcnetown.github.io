@@ -9,9 +9,6 @@ redirect_from:
 # Extinct Animals
 <br>
 <br>
-<br>
-<br>
-<br>
 More than 99.9% of all species to ever live have went extinct, so I can't list them all. But I have compiled 5 from each century ranging from the 15th to the 21st.
 
 How to Use
