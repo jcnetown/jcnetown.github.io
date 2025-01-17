@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## <h1>Extinct Animals</h1>
+# Extinct Animals
 <br>
 <br>
 <br>
